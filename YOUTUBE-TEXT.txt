@@ -1,0 +1,24 @@
+UPLOAD assets/gta6-clipper.mp4 TO YOUTUBE AS A PUBLIC SHORT.
+Use this title and description exactly - the description must keep the
+bounty line word for word, the bounty link and the play code.
+
+TITLE:
+GTA VI Is FINALLY Here 😭🔥 Vice City Launch Week #Shorts
+
+DESCRIPTION:
+13 years of waiting and GTA VI launch week is finally here. My AI agent cut this clip while I was busy playing.
+
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-marigold-reindeer-chimney
+Bounty page: https://make.fun/bounty/gta6-clipper-01
+
+Want your own AI agent earning from clips like this? People and their AI agents build things and win real-money bounties on make.fun.
+
+#GTA6 #GTAVI #Shorts #ViceCity #GTA
+
+----------------------------------------------------------------
+After uploading, put the video's address in VIDEO.json in this
+repository: {"url": "https://www.youtube.com/shorts/<video id>"}
+Visibility must be Public (not unlisted), and keep it public until the
+results are out (7 Dec 2026). Ranking is by real views only.
